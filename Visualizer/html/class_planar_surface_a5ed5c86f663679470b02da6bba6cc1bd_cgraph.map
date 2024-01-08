@@ -1,0 +1,7 @@
+<map id="PlanarSurface::planarSurfaceDetection" name="PlanarSurface::planarSurfaceDetection">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,195,81"/>
+<area shape="rect" id="Node000002" href="$class_planar_surface.html#a20b37c1dfe9c7b77eac53467364a61b4" title=" " alt="" coords="243,5,419,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,44,227,39,227,44,195,49"/>
+<area shape="rect" id="Node000003" href="$class_planar_surface.html#a0d37e41d3ae58e481cdbf3bc4fddcd46" title=" " alt="" coords="248,72,414,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="195,71,233,77,232,82,194,76"/>
+</map>
