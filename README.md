@@ -19,6 +19,15 @@ This is a 3D surface visualizer application that allows you to load STL files, v
 3. Perform planar surface detection by clicking on the "planar Surface" button.
 4. Perform cylindrical surface detection by clicking on the "Cylindrical Surface" button.
 
+## Interface
+![image](https://github.com/pratikcctech/MeshSegmentation/assets/149318512/4a69f439-4d20-4963-8706-b1984037f5f8)
+
+![image](https://github.com/pratikcctech/MeshSegmentation/assets/149318512/0336e831-32bf-4a2b-b285-7dcc2f3b7400)
+
+![image](https://github.com/pratikcctech/MeshSegmentation/assets/149318512/9b1df8c3-ebe4-4a82-b888-cd0db9adf713)
+
+
+
 ## Dependencies
 - This application uses the Qt framework for the graphical user interface.
 - OpenGL is used for rendering the 3D mesh.
