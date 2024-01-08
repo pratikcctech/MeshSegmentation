@@ -23,8 +23,3 @@ This is a 3D surface visualizer application that allows you to load STL files, v
 - This application uses the Qt framework for the graphical user interface.
 - OpenGL is used for rendering the 3D mesh.
 
-## Contributing
-Feel free to contribute to the development of this 3D surface visualizer. If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
