@@ -22,9 +22,12 @@ This is a 3D surface visualizer application that allows you to load STL files, v
 ## Interface
 ![image](https://github.com/pratikcctech/MeshSegmentation/assets/149318512/4a69f439-4d20-4963-8706-b1984037f5f8)
 
-![image](https://github.com/pratikcctech/MeshSegmentation/assets/149318512/0336e831-32bf-4a2b-b285-7dcc2f3b7400)
+![image](https://github.com/pratikcctech/MeshSegmentation/assets/149318512/af8e236d-1881-4c97-a7cf-b8f0fbf9ee25)
 
-![image](https://github.com/pratikcctech/MeshSegmentation/assets/149318512/9b1df8c3-ebe4-4a82-b888-cd0db9adf713)
+![image](https://github.com/pratikcctech/MeshSegmentation/assets/149318512/24a339b2-2a9f-4c7c-84f1-84825a994653)
+
+
+
 
 
 
